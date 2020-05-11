@@ -25,7 +25,7 @@ AJ
 aj@lkn.io | @ajlkn
 
 
-The Scrolling Background:
+## The Scrolling Background:
 
 	This relies entirely on CSS to do its thing, which is cool, but that makes
 	changing it a bit weird/tricky at first. You can still use pretty much any image
@@ -55,7 +55,7 @@ The Scrolling Background:
 		1500px wide.
 
 
-Credits:
+## Credits:
 
 	Background Image:
 		Ryan Schroeder via Unsplash (unsplash.com - CC0 licensed)
